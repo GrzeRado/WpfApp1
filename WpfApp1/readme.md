@@ -1,0 +1,1 @@
+create my first app in Visual Studio Code 2017. First step is to create field with name and surneme. Second one to create reason of added user to practise in Billenium. Last one will be create button to send massage to base and write in it.
